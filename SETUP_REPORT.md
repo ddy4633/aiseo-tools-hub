@@ -91,6 +91,10 @@ docker run -d \
 2. **注册域名** - 在 Namecheap/Cloudflare 注册 `ais-seotools.com`
 3. **运行部署脚本** - Docker 启动后执行上述容器部署
 
+### 相关工具入口
+1. [ProductoKit 图片工具箱](https://www.productokit.com/image-kit?utm_source=aiseo-tools-hub&utm_medium=setup_report&utm_campaign=seo_toolbox)
+2. [ProductoKit 文案润色器](https://www.productokit.com/text-polisher?utm_source=aiseo-tools-hub&utm_medium=setup_report&utm_campaign=seo_toolbox)
+
 ### 后续开发
 1. 创建 Next.js 前端应用 (`apps/web`)
 2. 创建 Node.js API 服务 (`apps/api`)
